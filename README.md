@@ -16,7 +16,7 @@ A Discord bot that provides detailed Steam profile information and ban status in
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/DiscordCheckerSteam.git
+git clone https://github.com/wolfl1x/DiscordCheckerSteam.git
 cd DiscordCheckerSteam
 ```
 
