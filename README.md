@@ -4,6 +4,8 @@ A simple Discord bot in Node.js that uses the Steam API to view profile summary 
 # Commands
 /check <steamprofile>
 
+<img width="503" height="533" alt="изображение" src="https://github.com/user-attachments/assets/5e94296b-1df0-47ca-88bd-3308bbc48e51" />
+
 # How to install
 1. Click "<>Code"
 2. Download ZIP
